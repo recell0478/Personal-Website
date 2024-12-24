@@ -11,6 +11,8 @@
 }
  
 .title {
+  position: flex;
+  flex-direction: row;
   font-size: 30px;
   font-weight: 600;
   text-decoration: none;
@@ -27,8 +29,11 @@
   display: flex;
   gap: 47px;
   list-style: none;
+  margin-left: 30px;
 }
-
+.menuBtn {
+  display:none;
+}
 .menuItems a {
   font-size: 25px;
   color: var(--color-text);

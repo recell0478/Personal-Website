@@ -7,10 +7,12 @@ export const Hero = () => {
     <div className={styles.content}>
         {/* contains all the left hand side text */}
         <h1 className={styles.description}>Hello, I am Rachel Pastreich</h1>
-        <p>I'm a full-stack developer who is also a honors computer science student at Boston University</p>
+        <p>My passion lies in full-stack software development, where I enjoy creating impactful solutions and continuously exploring new technologies. I also find great fulfillment in teaching and sharing knowledge with others.</p>
+        <p>   </p>
+        <p>Outside of my academics, I am a course assistant for Data Structures and Algorithms course at BU, a member of Upsilon Pi Epsilon and event planner for Hack4Impact! I also enjoy hitting the gym, hunting for the best Pad Thai at Thai resturants, and traveling around the world!</p>
     <a href="rachpast@bu.edu" className={styles.contactBtn}>Contact Me</a>
     </div>
-    <img src={getImageUrl("../../../assets/hero/heroimage.png") } alt="Hero image of me" className={styles.heroImg}/>
+    <img src={getImageUrl("../../../assets/hero/heroImage.jpg") } alt="Hero image of me" className={styles.heroImg}/>
     <div className={styles.topBlur} />
     <div className={styles.bottomBlur} />
   </section>
