@@ -46,6 +46,7 @@
     background-size: 0 100%;
     background-repeat: no-repeat;
     transition: 0.4s;
+    gap: 20px;
 }
 
 .aboutItem:hover {
