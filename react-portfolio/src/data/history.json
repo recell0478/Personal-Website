@@ -1,0 +1,29 @@
+[
+    {
+      "role": "Software Engineer",
+      "organisation": "Fidelity",
+      "startDate": "June, 2025",
+      "endDate": "Present",
+      "experiences": ["Incoming Full-Stack Software engineer at Fidelity for summer 2025"],
+      "imageSrc": "../../../assets/history/google.png"
+    },
+    {
+      "role": "Course Assistant",
+      "organisation": "Boston University",
+      "startDate": "Sept, 2024",
+      "endDate": "Present",
+      "experiences": ["hosted office hours for 250+ enrolled students", "Facilitated lab sections"],
+      "imageSrc": "../../../assets/history/google.png"
+    },
+    {
+      "role": "Math Tutor",
+      "organisation": "Club Z! Tutoring",
+      "startDate": "Nov, 2023",
+      "endDate": "Present",
+      "experiences": [
+        "Tutored Calculus to students ",
+        "Tailored lesson plans to each student"
+      ],
+      "imageSrc": "../../../assets/history/google.png"
+    }
+  ]
