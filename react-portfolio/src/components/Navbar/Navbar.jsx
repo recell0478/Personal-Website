@@ -12,8 +12,8 @@ export const Navbar = () => {
       Rachel's Portfolio</a>
       <div className={styles.menu}>
         <img className={styles.menuBtn} 
-        src={menuOpen ? getImageUrl("../../../assets/nav/closeIcon.png")
-          :getImageUrl("../../../assets/nav/menuIcon.png")
+        src={menuOpen ? getImageUrl("../../assets/nav/closeIcon.png")
+          :getImageUrl("../../assets/nav/menuIcon.png")
         }
         alt="menu-button"
         onClick={() => setMenuOpen(!menuOpen)}

@@ -1,11 +1,11 @@
 [
     {
-      "role": "Software Engineer",
+      "role": "Full-Stack Software Engineer",
       "organisation": "Fidelity",
       "startDate": "June, 2025",
       "endDate": "Present",
       "experiences": ["Incoming Full-Stack Software engineer at Fidelity for summer 2025"],
-      "imageSrc": "../../../assets/history/google.png"
+      "imageSrc": "../../assets/history/fidelity.jpg"
     },
     {
       "role": "Course Assistant",
@@ -13,7 +13,7 @@
       "startDate": "Sept, 2024",
       "endDate": "Present",
       "experiences": ["hosted office hours for 250+ enrolled students", "Facilitated lab sections"],
-      "imageSrc": "../../../assets/history/google.png"
+      "imageSrc": "../../assets/history/bu.png"
     },
     {
       "role": "Math Tutor",
@@ -24,6 +24,6 @@
         "Tutored Calculus to students ",
         "Tailored lesson plans to each student"
       ],
-      "imageSrc": "../../../assets/history/google.png"
+      "imageSrc": "../../assets/history/tutor.png"
     }
   ]

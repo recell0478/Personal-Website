@@ -4,9 +4,11 @@
     display: flex;
     flex-direction: column;
     border-radius: 8px;
+    background-color: transparent;
+
     background: linear-gradient(180deg, #19376d 0%, rgba(25,55,109,0.6) 100%);
     padding: 18px 24px;
-    max-width: 345px;
+    max-width: 450px;
     margin:16px;
     z-index: 1;
 
@@ -18,7 +20,7 @@
 
 .title {
     font-size: 25px;
-    font-weight: 700;
+    font-weight: 600;
 }
 
 .description {
