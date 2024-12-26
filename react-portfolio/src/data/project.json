@@ -9,7 +9,7 @@
     },
     {
       "title": "Upsilon Pi Eplsilon Website",
-      "imageSrc": "../../assets/projects/project.png",
+      "imageSrc": "../../assets/projects/upe.png",
       "description": "Designed and developed the Boston University Upsilon Pi Epsilon chapter website, serving 50+ active users, by utilizing React.js, HTML, CSS, and JavaScript for the front-end and Express.js and MongoDB for the back-end to optimize user experience and ensure cross-device functionality.",
       "skills": ["React", "Express", "HTML", "CSS", "MongoDB"],
       "demo": "https://www.example.com",
