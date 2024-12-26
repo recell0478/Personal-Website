@@ -5,7 +5,7 @@
       "startDate": "June, 2025",
       "endDate": "Present",
       "experiences": ["Incoming Full-Stack Software engineer at Fidelity for summer 2025"],
-      "imageSrc": "/assets/history/fidelity.jpg"
+      "imageSrc": "../assets/history/fidelity.jpg"
     },
     {
       "role": "Course Assistant",
