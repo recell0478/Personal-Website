@@ -40,6 +40,11 @@
     margin-bottom: 40px;
 }
 
+
+.content p {
+    font-size: 24px;
+}
+
 .contactBtn {
     text-decoration: none;
     background-color: var(--color-primary);

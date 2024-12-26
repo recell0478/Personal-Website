@@ -8,8 +8,8 @@
 
     background: linear-gradient(180deg, #19376d 0%, rgba(25,55,109,0.6) 100%);
     padding: 18px 24px;
-    max-width: 450px;
-    margin:16px;
+    max-width: 500px;
+    margin: 30px;
     z-index: 1;
 
 }
@@ -26,7 +26,6 @@
 .description {
     margin-top: 6px;
     font-size: 25px;
-    font-weight: 400;
 }
 
 .skills {
