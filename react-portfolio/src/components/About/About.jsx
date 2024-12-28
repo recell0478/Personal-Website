@@ -1,7 +1,9 @@
 import React from 'react'
-import { getImageUrl } from '../../utils'
 import styles from "./About.module.css";
 import cursorIcon from "../../assets/about/cursorIcon.png";
+import serverIcon from "../../assets/about/serverIcon.png";
+import uiIcon from "../../assets/about/serverIcon.png";
+
 export const About = () => {
   return (
     <section className={styles.container} id="about">
@@ -18,14 +20,14 @@ export const About = () => {
                 </div>
                 </li>
                 <li className={styles.aboutItem}>
-                    <img src={getImageUrl("../src/assets/about/serverIcon.png")} alt="server icon" />
+                    <img src={getImageUrl(serverIcon)} alt="server icon" />
                 <div className={styles.aboutItemText}>
                     <h3>Backend Developer</h3>
                     <p>I'm a backend developer with experience in developing fast and optimised back-end systems and APIs.</p>
                 </div>
                 </li>
                 <li className={styles.aboutItem}>
-                    <img src={getImageUrl("../src/assets/about/uiIcon.png")} alt="UI icon" />
+                    <img src={uiIcon} alt="UI icon" />
                 <div className={styles.aboutItemText}>
                     <h3>Languages</h3>
                     <p>Java, Python, Javascript, Typescript, SQL, HTML, CSS, C, XML</p>

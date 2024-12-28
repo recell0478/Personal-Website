@@ -1,6 +1,8 @@
 import React from 'react';
-import { getImageUrl } from '../../utils';
 import styles from "./Contact.module.css";
+import emailIcon from "../../assets/contact/emailIcon.png";
+import linkedinIcon from "../../assets/contact/linkedinIcon.png";
+import githubIcon from "../../src/assets/contact/githubIcon.png";
 
 export const Contact = () => {
   return ( <footer id="contact" className={styles.container}>
@@ -11,18 +13,18 @@ export const Contact = () => {
             <li className={styles.link}>
                 <a href="mailto: rachpast@bu.edu">
                     {/* src\assets\contact\emailIcon.png */}
-                    <img src= {getImageUrl("../src/assets/contact/emailIcon.png")} alt="Email icon"/>
+                    <img src= {emailIcon} alt="Email icon"/>
                 </a>
             </li>
             <li className={styles.link}>
             <a href="https://www.linkedin.com/in/rachel-pastreich" target="_blank" rel="noopener noreferrer">
-             <img src={getImageUrl("../src/assets/contact/linkedinIcon.png")} alt="Linkedin icon"/>
+             <img src={linkedinIcon} alt="Linkedin icon"/>
                 </a>
 
             </li>
             <li className={styles.link}> 
             <a href="https://github.com/recell0478">
-                <img src= {getImageUrl("../src/assets/contact/githubIcon.png")} alt="Github icon"/>
+                <img src= {githubIcon} alt="Github icon"/>
                 </a>
             </li>
         </ul>
