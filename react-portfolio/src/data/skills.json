@@ -2,30 +2,30 @@
     
     {
       "title": "React",
-      "imageSrc": "../src/assets/skills/react.png"
+      "imageSrc": "../../assets/skills/react.png"
     },
     {
       "title": "Node",
-      "imageSrc":"../src/assets/skills/node.png"
+      "imageSrc":"../../assets/skills/node.png"
     },
     {
       "title": "Express",
-      "imageSrc": "../src/assets/skills/express.png"
+      "imageSrc": "../../assets/skills/express.png"
     },
     {
       "title": "MySQL",
-      "imageSrc": "../src/assets/skills/mysql.png"
+      "imageSrc": "../../assets/skills/mysql.png"
     },
     {
       "title": "Tailwind CSS",
-      "imageSrc": "../src/assets/skills/tailwind.png"
+      "imageSrc": "../../assets/skills/tailwind.png"
     },
     {
       "title": "MongoDB",
-      "imageSrc": "../src/assets/skills/mongodb.png"
+      "imageSrc": "../../assets/skills/mongodb.png"
     },
     {
       "title": "Figma",
-      "imageSrc": "../src/assets/skills/figma.png"
+      "imageSrc": "../../assets/skills/figma.png"
     }
   ]

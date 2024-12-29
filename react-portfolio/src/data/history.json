@@ -5,7 +5,7 @@
       "startDate": "June, 2025",
       "endDate": "Present",
       "experiences": ["Incoming Full-Stack Software engineer at Fidelity for summer 2025"],
-      "imageSrc": "../src/assets/history/fidelity.jpg"
+      "imageSrc": "../../assets/history/fidelity.jpg"
     },
     {
       "role": "Course Assistant",
@@ -13,7 +13,7 @@
       "startDate": "Sept, 2024",
       "endDate": "Present",
       "experiences": ["hosted office hours for 250+ enrolled students", "Facilitated lab sections"],
-      "imageSrc": "../src/assets/history/bu.png"
+      "imageSrc": "../../assets/history/bu.png"
     },
     {
       "role": "Math Tutor",
@@ -24,6 +24,6 @@
         "Tutored Calculus to students ",
         "Tailored lesson plans to each student"
       ],
-      "imageSrc": "../src/assets/history/tutor.png"
+      "imageSrc": "../../assets/history/tutor.png"
     }
   ]
