@@ -2,7 +2,7 @@ import React from 'react';
 import styles from "./Contact.module.css";
 import emailIcon from "../../assets/contact/emailIcon.png";
 import linkedinIcon from "../../assets/contact/linkedinIcon.png";
-import githubIcon from "../../src/assets/contact/githubIcon.png";
+import githubIcon from "../../assets/contact/githubIcon.png";
 
 export const Contact = () => {
   return ( <footer id="contact" className={styles.container}>
