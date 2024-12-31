@@ -44,8 +44,7 @@ export const Project = () => {
                      </div>
                 </div>
         </div>
-        <div className={styles.topBlur} />
-        <div className={styles.bottomBlur} />
+       
     </section>
   )
 }
