@@ -38,7 +38,7 @@ export const Project = () => {
                 
                 </ul>
                 <div className={styles.links}>
-                         <a href={"https://github.com/recell0478/upe-website"} className={styles.link}>Demo</a>
+                         <a href={"https://sai-nayunipati.github.io/upe-website/"} className={styles.link}>Demo</a>
                       <a href={"https://github.com/recell0478/upe-website"} className={styles.link}>Source</a>
     
                      </div>
